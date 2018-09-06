@@ -1,0 +1,25 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Verdana, serif;
+}
+
+
+.bg {
+    /* The image used */
+    background-image: url("../img/5548407048_6b954c99c2_b.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
